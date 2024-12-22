@@ -1,2 +1,2 @@
-# car-racing-video-game
+# Car Racing Video Game
 The video game involves moving a car around a track while competeing with an automated car driven by the computer. It utilizes object-oriented programming (OOP) to control the car. The game involves a GUI, enhancing the user experience and has multiple levels and different cars for the user to choose from. The data file stores the files required to run the application. The ComputerCar class is a sub-class of the Main class which hold the movement of the car controlled by the computer.
