@@ -22,7 +22,7 @@ Race Away is a 2D car racing game built using the Processing framework. Players 
 2. Clone this repository:
    
    ```sh
-   git clone https://github.com/yourusername/race-away.git
+   git clone https://github.com/yourusername/Car-Racing-Video-Game.git
    ```
 3. Open the RaceAway.pde file in Processing.
 4. Ensure all required assets (images, videos) are in the same directory as the .pde file.
